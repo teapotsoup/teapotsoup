@@ -1,3 +1,1 @@
-Hi there 👋
-(https://github-readme-stats.vercel.app/api?username=teapotsoup&show_icons=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhe226&layout=compact)](https://github.com/jhe226/github-readme-stats)
