@@ -1,3 +1,3 @@
 Hi there 👋
-![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
+(https://github-readme-stats.vercel.app/api?username=teapotsoup&show_icons=true)
 
