@@ -1,4 +1,4 @@
-👋 Hello! I'm currently in erika, Hanyang University and I aim to be a front-end developer.
+👋 Hello! I'm currently in ERICA, Hanyang University and I aim to be a front-end developer.
 
 Although I have experienced various languages(c, java, etc), I am currently studying React and JavaScript.
 
