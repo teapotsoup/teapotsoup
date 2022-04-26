@@ -1,5 +1,5 @@
 <div align=center>
- <div><strong>Seo Jeong Woo</strong></div>
+ <div size="2em"><strong>Seo Jeong Woo</strong></div>
 <div><strong>웹 개발자를 지향하며, 프론트 엔드 직무를 희망하나 협업을 위해 Js사용 백엔드(Node.js / ExpressJs / NestJs)도 공부 중입니다.</strong></div>
 </div>
 
