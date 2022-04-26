@@ -1,6 +1,12 @@
-👋 Hello! I'm currently in ERICA, Hanyang University and I aim to be a front-end developer.
-
+<div align=center>
+# Seo Jeong Woo
+## 웹 개발자를 지향하며, 프론트 엔드 직무를 희망하나 협업을 위해 Js사용 백엔드(Node.js / ExpressJs / NestJs)도 공부 중입니다.
+</div>
+<hr/>
+<br/>
 Although I have experienced various languages(c, java, etc), I am currently studying React and JavaScript.
+
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fteapotsoup%2Fhit-counter&count_bg=%23399BCD&title_bg=%23AA9C9C&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
