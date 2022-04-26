@@ -2,24 +2,17 @@
 <div align="center">
  <div align=center><h1>SeojeongWoo(WebDeveloper)</h1></div>
  <div align=center><h3> 프론트 엔드 직무를 희망하나 협업을 위해 Js사용 백엔드(Node.js / ExpressJs / NestJs)도 공부 중입니다.</h3></div>
-</div>
-
-<!-- 통계 -->
-
-
-<hr/>
+ <hr/>
 <br/>
 
-<!-- <div style="width:200px; height:150px; border:1px solid red; float:left;">
- 
-</div>
-<div style="width:200px; height:150px; border:1px solid green; float:right;">
- 
-</div> -->
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=teapotsoup&show_icons=true&theme=dracula) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teapotsoup&layout=compact)(https://github.com/teapotsoup/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fteapotsoup%2Fhit-counter&count_bg=%23399BCD&title_bg=%23AA9C9C&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
+
+
 
 
 
