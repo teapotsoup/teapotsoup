@@ -10,14 +10,14 @@
 <hr/>
 <br/>
 
-<div style="width:200px; height:150px; border:1px solid red; float:left;">
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=teapotsoup&show_icons=true&theme=dracula) 
+<!-- <div style="width:200px; height:150px; border:1px solid red; float:left;">
+ 
 </div>
 <div style="width:200px; height:150px; border:1px solid green; float:right;">
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teapotsoup&layout=compact)](https://github.com/teapotsoup/github-readme-stats)
-</div>
-
-
+ 
+</div> -->
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=teapotsoup&show_icons=true&theme=dracula) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teapotsoup&layout=compact)](https://github.com/teapotsoup/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fteapotsoup%2Fhit-counter&count_bg=%23399BCD&title_bg=%23AA9C9C&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
