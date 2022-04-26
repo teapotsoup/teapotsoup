@@ -35,7 +35,7 @@
 <!-- 연락 링크 등 -->
 <a href="https://blog.naver.com/0902ab">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-04CF5C?style=flat&logo=naver&link=https://blog.naver.com/0902ab"
+        src="http://img.shields.io/badge/-Tech%20Blog-000000?style=flat&logo=naver&link=https://blog.naver.com/0902ab"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> <a href="https://www.instagram.com/shelter_jw/">
     <img 
