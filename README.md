@@ -1,7 +1,8 @@
 <div align=center>
-# Seo Jeong Woo
-## 웹 개발자를 지향하며, 프론트 엔드 직무를 희망하나 협업을 위해 Js사용 백엔드(Node.js / ExpressJs / NestJs)도 공부 중입니다.
+<strong>Seo Jeong Woo</strong>
+<strong>웹 개발자를 지향하며, 프론트 엔드 직무를 희망하나 협업을 위해 Js사용 백엔드(Node.js / ExpressJs / NestJs)도 공부 중입니다.</strong>
 </div>
+
 <hr/>
 <br/>
 Although I have experienced various languages(c, java, etc), I am currently studying React and JavaScript.
