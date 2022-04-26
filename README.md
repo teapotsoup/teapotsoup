@@ -1,8 +1,17 @@
-# SeojeongWoo
-## 웹 개발자를 지향하며, 프론트 엔드 직무를 희망하나 협업을 위해 Js사용 백엔드(Node.js / ExpressJs / NestJs)도 공부 중입니다.
+
+<div align="center">
+ <!--<div align=center><h1>SeojeongWoo </h1></div>-->
+ <!--<div align=center><h3> 웹 개발자를 지향하며, 프론트 엔드 직무를 희망하나 협업을 위해 Js사용 백엔드(Node.js / ExpressJs / NestJs)도 공부 중입니다.</h3></div>-->
+</div>
+
+<!-- 통계 -->
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=teapotsoup&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teapotsoup&layout=compact&theme=dracula)]
+<br>
 
 <hr/>
 <br/>
+
 Although I have experienced various languages(c, java, etc), I am currently studying React and JavaScript.
 
 
