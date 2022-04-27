@@ -1,9 +1,10 @@
 
 <div align="center">
  <div align=center><h1>SeojeongWoo(fe-WebDeveloper)</h1></div>
+ <br/>
  <div align=center><h3> 프론트 엔드 직무를 희망하나 협업을 위해 Js사용 백엔드(Node.js / ExpressJs / NestJs)도 공부 중입니다.</h3></div>
  <hr/>
-<br/>
+
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=teapotsoup&show_icons=true&theme=dracula) 
