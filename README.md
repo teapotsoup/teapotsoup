@@ -2,7 +2,7 @@
 <div align="center">
  <div align=center><h1>SeojeongWoo(fe-WebDeveloper)</h1></div>
 
- <div align=center><h3> 현재 react.ts next.ts 위주로 진행합니다. 최근 DB는 파이어베이스를 다룹니다. </h3></div>
+ <div align=center><h3> 회사 재직중 </h3></div>
 <br>
 
 
