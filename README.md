@@ -1,6 +1,6 @@
 
 <div align="center">
- <div align=center><h1>SeojeongWoo(fe-WebDeveloper)</h1></div>
+ <div align=center><h1>SeoJeongWoo(fe-WebDeveloper)</h1></div>
 
  <div align=center><h3> 회사 재직중 </h3></div>
 <br>
